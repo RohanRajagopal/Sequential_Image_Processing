@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Data sets
+data/
+*.zip
+
+# Checkpoints
+*.eqx
+checkpoints/
+
+# Logs
+*.log
