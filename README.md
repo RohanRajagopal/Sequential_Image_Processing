@@ -1,4 +1,4 @@
-# ⚡ Neural Analog Circuit Flow
+# Neural Analog Circuit Flow
 
 **A Physics-Informed Neural ODE for Computer Vision**
 
